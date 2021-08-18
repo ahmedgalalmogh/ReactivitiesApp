@@ -122,3 +122,7 @@ C:\Users\20111\APICORE\20111\API\obj\Debug\net5.0\API.pdb
 C:\Users\20111\APICORE\20111\API\obj\Debug\net5.0\API.genruntimeconfig.cache
 C:\Users\20111\APICORE\20111\API\bin\Debug\net5.0\Humanizer.dll
 C:\Users\20111\APICORE\20111\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\20111\APICORE\20111\API\bin\Debug\net5.0\MediatR.dll
+C:\Users\20111\APICORE\20111\API\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\20111\APICORE\20111\API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\20111\APICORE\20111\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
